@@ -15,31 +15,7 @@ Here
 
 ## Project folder structure
 
-├── lib
-|   ├── posts
-│   │   ├── bloc
-│   │   │   └── post_bloc.dart
-|   |   |   └── post_event.dart
-|   |   |   └── post_state.dart
-|   |   └── models
-|   |   |   └── models.dart*
-|   |   |   └── post.dart
-│   │   └── view
-│   │   |   ├── posts_page.dart
-│   │   |   └── posts_list.dart
-|   |   |   └── view.dart*
-|   |   └── widgets
-|   |   |   └── bottom_loader.dart
-|   |   |   └── post_list_item.dart
-|   |   |   └── widgets.dart*
-│   │   ├── posts.dart*
-│   ├── app.dart
-│   ├── simple_bloc_observer.dart
-│   └── main.dart
-├── pubspec.lock
-├── pubspec.yaml
-
-
+![infinite_list_structure](https://github.com/PoroshMondal/flutter_infinite_list/assets/47239915/1a2f5112-0aa9-49d2-94fb-c0ec556ff25c)
 
 A few resources to get you started if this is your first Flutter project:
 
