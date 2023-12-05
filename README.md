@@ -1,6 +1,6 @@
 # infinite_list_api_call
 
-A new Flutter project.
+A flutter tutorial project using BLOC design pattern
 
 ## Getting Started
 
